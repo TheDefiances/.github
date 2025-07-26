@@ -1,63 +1,84 @@
-<img width="200" height="200" alt="98027991" src="https://github.com/user-attachments/assets/2567556d-6706-4324-a5f2-4ab5f22b7925" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/2567556d-6706-4324-a5f2-4ab5f22b7925" alt="TheDefiances Logo" width="200" height="200">
+</p>
 
 # TheDefiances 🚀
 
-Bem-vindo ao repositório oficial da **TheDefiances** — uma organização aberta e colaborativa com o objetivo de **praticar, aprender e evoluir** por meio de desafios envolvendo as principais tecnologias de **frontend** e **backend**.
+Bem-vindo à **TheDefiances** — uma organização aberta e colaborativa voltada à prática de desafios técnicos em desenvolvimento **web**, com foco nas principais tecnologias **frontend** e **backend** modernas.
+
+---
 
 ## 🎯 Objetivo
 
-O principal propósito da TheDefiances é criar um espaço colaborativo para desenvolvedores de todos os níveis praticarem suas habilidades através de desafios técnicos reais e conceituais. Cada desafio é uma oportunidade para:
+Criar um espaço onde desenvolvedores de todos os níveis possam:
 
-- Explorar novas tecnologias e stacks
-- Compartilhar conhecimento com a comunidade
-- Aprimorar boas práticas de desenvolvimento
-- Trabalhar em equipe de forma assíncrona
-- Simular situações reais de desenvolvimento profissional
+- Praticar habilidades com desafios reais e progressivos
+- Aprender novas tecnologias e stacks por meio da prática
+- Compartilhar soluções e boas práticas com a comunidade
+- Simular experiências do mundo real em projetos de software
+- Colaborar de forma aberta, assíncrona e com propósito
 
-## 🔍 O que você vai encontrar aqui
+---
 
-- ✅ Desafios de **Frontend** com React, Vue, HTML/CSS, etc.
-- ✅ Desafios de **Backend** com Node.js, Python, Go, etc.
-- ✅ Projetos fullstack integrando ambas as áreas
-- ✅ Documentação de boas práticas
-- ✅ Soluções propostas pela comunidade
-- ✅ Instruções para submissão e participação
+## 🔍 Tipos de Repositórios por Tecnologia
 
-## 📁 Estrutura do Repositório
+Os desafios da organização são distribuídos em repositórios individuais, agrupados por **tecnologias específicas**. Cada repositório contém um desafio, suas instruções e critérios de aceitação.
 
-```bash
-├── frontend/
-│   └── desafio-nome/
-├── backend/
-│   └── desafio-nome/
-├── fullstack/
-│   └── desafio-nome/
-├── docs/
-│   └── guia-de-contribuicao.md
-└── README.md
-````
+| Tecnologia       | Exemplos de Repositórios                          |
+|------------------|---------------------------------------------------|
+| **React**        | `react-todo-app`, `react-dashboard-auth`         |
+| **Vue.js**       | `vue-crypto-tracker`, `vue-kanban`               |
+| **Next.js**      | `nextjs-blog`, `nextjs-auth-flow`                |
+| **Node.js**      | `node-api-rest`, `node-auth-jwt`                 |
+| **Express.js**   | `express-user-api`, `express-crud-template`      |
+| **NestJS**       | `nestjs-ecommerce`, `nestjs-crud-template`       |
+| **FastAPI**      | `fastapi-user-api`, `fastapi-file-upload`        |
+| **Go**           | `go-rest-api`, `go-auth-example`                 |
+| **MongoDB**      | Integrado em `node-api-rest`, `nestjs-crud`, etc |
+| **PostgreSQL**   | Utilizado em APIs com Prisma ou Sequelize        |
+| **Prisma ORM**   | `prisma-user-crud`, `next-prisma-blog`           |
+| **Docker**       | `docker-ci-exemplo`, `api-dockerized`            |
+| **GitHub Actions** | `ci-test-pipeline`, `node-ci-template`         |
+| **GraphQL**      | `graphql-lab`, `apollo-server-demo`              |
+| **WebSockets**   | `socket-chat`, `realtime-notifications-demo`     |
+| **Testes (Jest, Pytest)** | `react-test-example`, `fastapi-pytest`  |
+
+---
 
 ## 🤝 Como Contribuir
 
-1. Faça um fork do repositório
-2. Crie uma branch com seu nome ou solução
-3. Adicione sua solução dentro da pasta do desafio correspondente
-4. Crie um Pull Request explicando sua abordagem
+1. Acesse o [perfil da organização](https://github.com/TheDefiances?tab=repositories)
+2. Escolha um repositório/desafio que deseja resolver
+3. Faça um fork do repositório escolhido
+4. Crie uma branch com seu nome ou identificação da solução
+5. Implemente sua solução seguindo as instruções do `README.md` do repositório
+6. Envie um Pull Request com sua contribuição
 
-Veja mais detalhes em [`docs/guia-de-contribuicao.md`](./docs/guia-de-contribuicao.md)
+> Consulte o [Guia de Contribuição](https://github.com/TheDefiances/docs/blob/main/guia-de-contribuicao.md) para mais detalhes.
+
+---
 
 ## 🧠 Tecnologias que exploramos
 
-* **Frontend:** React, Vue, Next.js, SASS, Tailwind, etc.
-* **Backend:** Node.js, Express, Python (FastAPI, Flask), Go, etc.
-* **Banco de Dados:** PostgreSQL, MongoDB, Redis, SQLite
-* **DevOps e Infra:** Docker, CI/CD, GitHub Actions
+- **Frontend:** React, Vue.js, Next.js, Tailwind, HTML/CSS
+- **Backend:** Node.js, Express, NestJS, FastAPI, Go
+- **Banco de Dados:** PostgreSQL, MongoDB, SQLite, Prisma ORM
+- **DevOps:** Docker, GitHub Actions, CI/CD
+- **Extras:** GraphQL, WebSockets, OAuth, Testes automatizados
 
-## 📢 Comunidade
+---
 
-Quer se juntar a nós, discutir soluções, ou sugerir novos desafios? Entre em contato ou abra uma [issue](https://github.com/TheDefiances/issues) com suas ideias!
+## 📣 Comunidade
+
+Você pode contribuir com:
+
+- Soluções para desafios existentes
+- Sugestões de novos desafios
+- Melhorias técnicas ou documentais
+- Feedbacks e revisões de Pull Requests
+
+Ajude-nos a tornar este espaço cada vez mais colaborativo, didático e desafiador para quem quer crescer na prática!
 
 ---
 
 > “A prática leva à excelência. E a colaboração leva mais longe.” – Equipe TheDefiances
-
